@@ -194,4 +194,4 @@ To get a deployed instance running:
 
 ## Authors
 
-Ramy Kader - rkayx (bitbucket) rkayx2 (GitHub)
+Ramy Kader - [GitHub](https://github.com/rkayx2)
