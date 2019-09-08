@@ -1,0 +1,28 @@
+env: dev
+
+dev:
+  adapter: SQLite
+  database: db/loadbalancer.sqlite
+  host:
+  username:
+  password:
+  port:
+  config:
+
+prod:
+  adapter: SQLite
+  database: db/loadbalancer.sqlite
+  host:
+  username:
+  password:
+  port:
+  config:
+
+test:
+  adapter:
+  database:
+  host:
+  username:
+  password:
+  port:
+  config: 
