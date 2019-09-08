@@ -16,7 +16,7 @@ module ContainerConfig
 
     const CONTAINER_REPOSITORY_PREFIX = "reputationaire/"
     const CONTAINER_SERVICE_SUFFIX = "rank"
-    const CONTAINER_REQUEST_LIMIT = 50
+    const CONTAINER_REQUEST_LIMIT = 500
     const LOADBALANCER_HOST = "127.0.0.1"
     const LOADBALANCER_PORT = 8002
 
